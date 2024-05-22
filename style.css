@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'ToruIcons';
+  src:  url('fonts/ToruIcons.eot?ss7vtg');
+  src:  url('fonts/ToruIcons.eot?ss7vtg#iefix') format('embedded-opentype'),
+    url('fonts/ToruIcons.ttf?ss7vtg') format('truetype'),
+    url('fonts/ToruIcons.woff?ss7vtg') format('woff'),
+    url('fonts/ToruIcons.svg?ss7vtg#ToruIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ToruIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ti-settings:before {
+  content: "\e902";
+}
+.ti-fingerprint:before {
+  content: "\e906";
+}
+.ti-help:before {
+  content: "\e907";
+}
+.ti-hash:before {
+  content: "\e908";
+}
+.ti-link:before {
+  content: "\e90f";
+}
+.ti-minus:before {
+  content: "\e910";
+}
+.ti-minus-circle:before {
+  content: "\e911";
+}
+.ti-Hashicorp-Line-Interface-Octagon:before {
+  content: "\e912";
+}
+.ti-alert-triangle:before {
+  content: "\e913";
+}
+.ti-alert-diamond:before {
+  content: "\e914";
+}
+.ti-alert-circle:before {
+  content: "\e915";
+}
+.ti-close:before {
+  content: "\e916";
+}
+.ti-close-circle:before {
+  content: "\e917";
+}
+.ti-user-circle:before {
+  content: "\e918";
+}
+.ti-trash:before {
+  content: "\e919";
+}
+.ti-plus-circle:before {
+  content: "\e91a";
+}
+.ti-plus:before {
+  content: "\e91b";
+}
+.ti-pin:before {
+  content: "\e91c";
+}
+.ti-pencil:before {
+  content: "\e91d";
+}
+.ti-info-circle:before {
+  content: "\e91e";
+}
+.ti-eye-hide:before {
+  content: "\e91f";
+}
+.ti-eye:before {
+  content: "\e920";
+}
+.ti-external-link:before {
+  content: "\e921";
+}
+.ti-check:before {
+  content: "\e922";
+}
+.ti-options-horizontal:before {
+  content: "\e900";
+}
+.ti-options-vertical:before {
+  content: "\e901";
+}
+.ti-sun:before {
+  content: "\e903";
+}
+.ti-login:before {
+  content: "\e904";
+}
+.ti-exit:before {
+  content: "\e905";
+}
+.ti-language:before {
+  content: "\e909";
+}
+.ti-arrow-up:before {
+  content: "\e90a";
+}
+.ti-arrow-down:before {
+  content: "\e90b";
+}
+.ti-arrow-right:before {
+  content: "\e90c";
+}
+.ti-arrow-left:before {
+  content: "\e90d";
+}
+.ti-moon:before {
+  content: "\e90e";
+}
