@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ToruIcons';
-  src:  url('fonts/ToruIcons.eot?ofo7ep');
-  src:  url('fonts/ToruIcons.eot?ofo7ep#iefix') format('embedded-opentype'),
-    url('fonts/ToruIcons.ttf?ofo7ep') format('truetype'),
-    url('fonts/ToruIcons.woff?ofo7ep') format('woff'),
-    url('fonts/ToruIcons.svg?ofo7ep#ToruIcons') format('svg');
+  src:  url('fonts/ToruIcons.eot?cz34gm');
+  src:  url('fonts/ToruIcons.eot?cz34gm#iefix') format('embedded-opentype'),
+    url('fonts/ToruIcons.ttf?cz34gm') format('truetype'),
+    url('fonts/ToruIcons.woff?cz34gm') format('woff'),
+    url('fonts/ToruIcons.svg?cz34gm#ToruIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,42 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ti-brush:before {
+  content: "\e937";
+}
+.ti-archive:before {
+  content: "\e92c";
+}
+.ti-database:before {
+  content: "\e92d";
+}
+.ti-heart-off:before {
+  content: "\e92e";
+}
+.ti-heart:before {
+  content: "\e92f";
+}
+.ti-smartphone:before {
+  content: "\e930";
+}
+.ti-shield-close:before {
+  content: "\e931";
+}
+.ti-shield-off:before {
+  content: "\e932";
+}
+.ti-shield-check:before {
+  content: "\e933";
+}
+.ti-shield-alert:before {
+  content: "\e934";
+}
+.ti-shield:before {
+  content: "\e935";
+}
+.ti-apps:before {
+  content: "\e92a";
+}
 .ti-lock:before {
   content: "\e924";
 }
