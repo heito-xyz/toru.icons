@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ToruIcons';
-  src:  url('fonts/ToruIcons.eot?cz34gm');
-  src:  url('fonts/ToruIcons.eot?cz34gm#iefix') format('embedded-opentype'),
-    url('fonts/ToruIcons.ttf?cz34gm') format('truetype'),
-    url('fonts/ToruIcons.woff?cz34gm') format('woff'),
-    url('fonts/ToruIcons.svg?cz34gm#ToruIcons') format('svg');
+  src:  url('fonts/ToruIcons.eot?zf0j8b');
+  src:  url('fonts/ToruIcons.eot?zf0j8b#iefix') format('embedded-opentype'),
+    url('fonts/ToruIcons.ttf?zf0j8b') format('truetype'),
+    url('fonts/ToruIcons.woff?zf0j8b') format('woff'),
+    url('fonts/ToruIcons.svg?zf0j8b#ToruIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,33 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ti-twitch:before {
+  content: "\e936";
+}
+.ti-sidebar-show:before {
+  content: "\e938";
+}
+.ti-sidebar-hide:before {
+  content: "\e939";
+}
+.ti-sidebar:before {
+  content: "\e93d";
+}
+.ti-monitor:before {
+  content: "\e93e";
+}
+.ti-linux:before {
+  content: "\e93a";
+}
+.ti-ipad-h:before {
+  content: "\e93b";
+}
+.ti-ipad:before {
+  content: "\e93c";
+}
+.ti-safari-solid:before {
+  content: "\e940";
+}
 .ti-brush:before {
   content: "\e937";
 }
@@ -189,4 +216,97 @@ i {
 }
 .ti-moon:before {
   content: "\e90e";
+}
+.ti-google:before {
+  content: "\ea88";
+}
+.ti-facebook:before {
+  content: "\ea90";
+}
+.ti-facebook-solid:before {
+  content: "\ea91";
+}
+.ti-instagram:before {
+  content: "\ea92";
+}
+.ti-whatsapp:before {
+  content: "\ea93";
+}
+.ti-spotify:before {
+  content: "\ea94";
+}
+.ti-youtube:before {
+  content: "\ea9d";
+}
+.ti-dribbble:before {
+  content: "\eaa7";
+}
+.ti-github:before {
+  content: "\eab0";
+}
+.ti-npm:before {
+  content: "\eab1";
+}
+.ti-apple:before {
+  content: "\eabe";
+}
+.ti-finder:before {
+  content: "\eabf";
+}
+.ti-android1:before {
+  content: "\eac0";
+}
+.ti-windows1:before {
+  content: "\eac1";
+}
+.ti-windows8:before {
+  content: "\eac2";
+}
+.ti-soundcloud:before {
+  content: "\eac3";
+}
+.ti-soundcloud-solid:before {
+  content: "\eac4";
+}
+.ti-skype:before {
+  content: "\eac5";
+}
+.ti-linkedin-solid:before {
+  content: "\eac9";
+}
+.ti-linkedin:before {
+  content: "\eaca";
+}
+.ti-stackoverflow:before {
+  content: "\ead0";
+}
+.ti-pinterest-solid:before {
+  content: "\ead1";
+}
+.ti-pinterest:before {
+  content: "\ead2";
+}
+.ti-paypal:before {
+  content: "\ead8";
+}
+.ti-chrome:before {
+  content: "\ead9";
+}
+.ti-firefox:before {
+  content: "\eada";
+}
+.ti-ie:before {
+  content: "\eadb";
+}
+.ti-safari:before {
+  content: "\eadd";
+}
+.ti-opera:before {
+  content: "\eade";
+}
+.ti-git:before {
+  content: "\eae7";
+}
+.ti-codepen:before {
+  content: "\eae8";
 }
