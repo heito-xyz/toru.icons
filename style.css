@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ToruIcons';
-  src:  url('fonts/ToruIcons.eot?zf0j8b');
-  src:  url('fonts/ToruIcons.eot?zf0j8b#iefix') format('embedded-opentype'),
-    url('fonts/ToruIcons.ttf?zf0j8b') format('truetype'),
-    url('fonts/ToruIcons.woff?zf0j8b') format('woff'),
-    url('fonts/ToruIcons.svg?zf0j8b#ToruIcons') format('svg');
+  src:  url('fonts/ToruIcons.eot?cs7wuk');
+  src:  url('fonts/ToruIcons.eot?cs7wuk#iefix') format('embedded-opentype'),
+    url('fonts/ToruIcons.ttf?cs7wuk') format('truetype'),
+    url('fonts/ToruIcons.woff?cs7wuk') format('woff'),
+    url('fonts/ToruIcons.svg?cs7wuk#ToruIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -253,10 +253,10 @@ i {
 .ti-finder:before {
   content: "\eabf";
 }
-.ti-android1:before {
+.ti-android:before {
   content: "\eac0";
 }
-.ti-windows1:before {
+.ti-windows:before {
   content: "\eac1";
 }
 .ti-windows8:before {
